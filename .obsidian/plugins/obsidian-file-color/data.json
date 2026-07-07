@@ -1,0 +1,161 @@
+{
+  "cascadeColors": false,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "Z-_LVVQHdCzrcrJNkg26t",
+      "name": "azul",
+      "value": "#0062ff"
+    },
+    {
+      "id": "25DaDWeFd6TfEU5HELdnM",
+      "name": "Gris",
+      "value": "#4f4f4f"
+    },
+    {
+      "id": "-yQhjCLIF6H0AQAti3GhR",
+      "name": "verde",
+      "value": "#00ff11"
+    },
+    {
+      "id": "YdNBU8edLy5RYcL31USCc",
+      "name": "violeta",
+      "value": "#6600ff"
+    },
+    {
+      "id": "F5BrWwDQhXkxnx58AfTxP",
+      "name": "naranja",
+      "value": "#ff8800"
+    },
+    {
+      "id": "wHFAKcGPjL1xD4kXvxQg4",
+      "name": "amarillo",
+      "value": "#ffea00"
+    },
+    {
+      "id": "offVcb6aq9BIeh7xwrPpI",
+      "name": "rosa",
+      "value": "#e896dd"
+    },
+    {
+      "id": "GyxzL3Nf9c_TBYcFa_7Rj",
+      "name": "rojo",
+      "value": "#ff4d4d"
+    },
+    {
+      "id": "B52p-LM2Ka1DL8s_X31Kq",
+      "name": "verde suave",
+      "value": "#88ff47"
+    },
+    {
+      "id": "xRJm4VyTW0HXE7eifnDML",
+      "name": "naranja claro",
+      "value": "#b76234"
+    },
+    {
+      "id": "CRBU_ARXvjyytF8O93u44",
+      "name": "",
+      "value": "#ffe97a"
+    },
+    {
+      "id": "6HV--3XGc0FFxBsNbr7XB",
+      "name": "",
+      "value": "#5cdeff"
+    },
+    {
+      "id": "FMA43fDI-QqSUaZNJfSQj",
+      "name": "",
+      "value": "#ffffff"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "00 - Inicio",
+      "color": "Z-_LVVQHdCzrcrJNkg26t"
+    },
+    {
+      "path": "01 - Campañas/Activas",
+      "color": "-yQhjCLIF6H0AQAti3GhR"
+    },
+    {
+      "path": "01 - Campañas/Activas/C.I. 1 - Los Dragones de la isla de las Tempestades/01 - Sesiones",
+      "color": "B52p-LM2Ka1DL8s_X31Kq"
+    },
+    {
+      "path": "01 - Campañas/Activas/C.I. 1 - Los Dragones de la isla de las Tempestades/01 - Sesiones/01 - Planificación",
+      "color": "-yQhjCLIF6H0AQAti3GhR"
+    },
+    {
+      "path": "01 - Campañas/Activas/C.I. 1 - Los Dragones de la isla de las Tempestades/01 - Sesiones/02 - En juego",
+      "color": "B52p-LM2Ka1DL8s_X31Kq"
+    },
+    {
+      "path": "01 - Campañas/Activas/C.I. 1 - Los Dragones de la isla de las Tempestades/01 - Sesiones/03 - Registro de Sesiones",
+      "color": "B52p-LM2Ka1DL8s_X31Kq"
+    },
+    {
+      "path": "01 - Campañas/Activas/C.I. 1 - Los Dragones de la isla de las Tempestades/02 - Mundo",
+      "color": "F5BrWwDQhXkxnx58AfTxP"
+    },
+    {
+      "path": "01 - Campañas/Activas/C.I. 1 - Los Dragones de la isla de las Tempestades/03 - Recursos de la campaña",
+      "color": "wHFAKcGPjL1xD4kXvxQg4"
+    },
+    {
+      "path": "01 - Campañas/Activas/C.I. 1 - Los Dragones de la isla de las Tempestades/02 - Mundo/01 - Lugares",
+      "color": "xRJm4VyTW0HXE7eifnDML"
+    },
+    {
+      "path": "01 - Campañas/Activas/C.I. 1 - Los Dragones de la isla de las Tempestades/02 - Mundo/02 - PNJ",
+      "color": "xRJm4VyTW0HXE7eifnDML"
+    },
+    {
+      "path": "01 - Campañas/Activas/C.I. 1 - Los Dragones de la isla de las Tempestades/02 - Mundo/03- Facciones y relaciones",
+      "color": "xRJm4VyTW0HXE7eifnDML"
+    },
+    {
+      "path": "01 - Campañas/Activas/C.I. 1 - Los Dragones de la isla de las Tempestades/02 - Mundo/04 - Historia y secretos",
+      "color": "xRJm4VyTW0HXE7eifnDML"
+    },
+    {
+      "path": "01 - Campañas/Activas/C.I. 1 - Los Dragones de la isla de las Tempestades/03 - Recursos de la campaña/01 - Reglas y ayudas de mesa",
+      "color": "CRBU_ARXvjyytF8O93u44"
+    },
+    {
+      "path": "01 - Campañas/Activas/C.I. 1 - Los Dragones de la isla de las Tempestades/03 - Recursos de la campaña/02 - Enemigos y encuentros",
+      "color": "CRBU_ARXvjyytF8O93u44"
+    },
+    {
+      "path": "01 - Campañas/Activas/C.I. 1 - Los Dragones de la isla de las Tempestades/03 - Recursos de la campaña/03 - Material de referencia",
+      "color": "CRBU_ARXvjyytF8O93u44"
+    },
+    {
+      "path": "01 - Campañas/Activas/C.I. 1 - Los Dragones de la isla de las Tempestades/00 - Centro",
+      "color": "Z-_LVVQHdCzrcrJNkg26t"
+    },
+    {
+      "path": "01 - Campañas/Archivadas",
+      "color": "25DaDWeFd6TfEU5HELdnM"
+    },
+    {
+      "path": "01 - Campañas/Archivadas/C.I. 2 - La mina perdida de Phandelver",
+      "color": "25DaDWeFd6TfEU5HELdnM"
+    },
+    {
+      "path": "99 - Papelera",
+      "color": "25DaDWeFd6TfEU5HELdnM"
+    },
+    {
+      "path": "02 - Recursos",
+      "color": "Z-_LVVQHdCzrcrJNkg26t"
+    },
+    {
+      "path": "03 - Plantillas",
+      "color": "Z-_LVVQHdCzrcrJNkg26t"
+    },
+    {
+      "path": "04 - Referencias",
+      "color": "Z-_LVVQHdCzrcrJNkg26t"
+    }
+  ]
+}

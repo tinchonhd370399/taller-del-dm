@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "2f9193cb6c7d7167",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc325d7912f8f8ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c70954656f7eda69",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Sin título.base",
+                "viewName": "Tabla"
+              },
+              "icon": "lucide-table",
+              "title": "Sin título"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e8ec77f8f22376eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "0959f334c45c92c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "511302b9252a61af",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "76b645015603dec9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "32073f8a082daed1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 537.5
+  },
+  "right": {
+    "id": "c8dad6a2ca9d1a65",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1478781fc07ebff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca24cb9f53f2297d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 - Campañas/Activas/C.I. 1 - Los Dragones de la isla de las Tempestades/02 - Mundo/04 - Historia y secretos/Historia y secretos de la campaña.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Historia y secretos de la campaña"
+            }
+          },
+          {
+            "id": "eacb06c96a9aba89",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 - Campañas/Activas/C.I. 1 - Los Dragones de la isla de las Tempestades/02 - Mundo/04 - Historia y secretos/Historia y secretos de la campaña.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Historia y secretos de la campaña"
+            }
+          },
+          {
+            "id": "c9174408930cbb25",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "0eef6f2c174bc891",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "b3f9509c32c32a32",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sin título.base",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Sin título"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "c70954656f7eda69",
+  "lastOpenFiles": [
+    "00 - Inicio/nota.md",
+    "Sin título.base",
+    "01 - Campañas/Sin título.base",
+    "100 - Arquitectura del Taller del DM/Arquitectura del Taller del DM.md",
+    "01 - Campañas/Activas/C.I. 1 - Los Dragones de la isla de las Tempestades/02 - Mundo/Sin título.base",
+    "01 - Campañas/Activas/C.I. 1 - Los Dragones de la isla de las Tempestades/01 - Sesiones/01 - Planificación/Planificación de sesiones.md",
+    "01 - Campañas/Activas/C.I. 1 - Los Dragones de la isla de las Tempestades/01 - Sesiones/01 - Planificación/Planificación - Capítulo 1 - El Retiro del Dragón.md",
+    "01 - Campañas/Activas/C.I. 1 - Los Dragones de la isla de las Tempestades/01 - Sesiones/02 - En juego/En juego.md",
+    "01 - Campañas/Activas/C.I. 1 - Los Dragones de la isla de las Tempestades/01 - Sesiones/03 - Registro de Sesiones/Registro de sesiones.md",
+    "01 - Campañas/Activas/C.I. 1 - Los Dragones de la isla de las Tempestades/01 - Sesiones/Índice de Sesiones.md",
+    "01 - Campañas/Activas/C.I. 1 - Los Dragones de la isla de las Tempestades/03 - Recursos de la campaña/Índice de Recursos.md",
+    "01 - Campañas/Activas/C.I. 1 - Los Dragones de la isla de las Tempestades/02 - Mundo/Índice del mundo.md",
+    "01 - Campañas/Activas/C.I. 1 - Los Dragones de la isla de las Tempestades/02 - Mundo/04 - Historia y secretos/Historia y secretos de la campaña.md",
+    "01 - Campañas/Activas/C.I. 1 - Los Dragones de la isla de las Tempestades/00 - Centro/Centro de campaña.md",
+    "01 - Campañas/Activas/C.I. 1 - Los Dragones de la isla de las Tempestades/03 - Recursos de la campaña/03 - Material de referencia/Material de referencia.md",
+    "01 - Campañas/Activas/C.I. 1 - Los Dragones de la isla de las Tempestades/03 - Recursos de la campaña/02 - Enemigos y encuentros/Enemigos y encuentros.md",
+    "01 - Campañas/Activas/C.I. 1 - Los Dragones de la isla de las Tempestades/03 - Recursos de la campaña/01 - Reglas y ayudas de mesa/Reglas y ayudas de mesa.md",
+    "01 - Campañas/Activas/C.I. 1 - Los Dragones de la isla de las Tempestades/02 - Mundo/03- Facciones y relaciones/Facciones y relaciones de la campaña.md",
+    "01 - Campañas/Activas/C.I. 1 - Los Dragones de la isla de las Tempestades/02 - Mundo/02 - PNJ/PNJ de la campaña.md",
+    "01 - Campañas/Activas/C.I. 1 - Los Dragones de la isla de las Tempestades/02 - Mundo/01 - Lugares/Lugares de la campaña.md",
+    "Facciones y relaciones de la campaña.md",
+    "PNJ de la campaña.md",
+    "01 - Campañas/Activas/C.I. 1 - Los Dragones de la isla de las Tempestades/01 - Sesiones/03 - Registro de Sesiones",
+    "Sin título.canvas",
+    "01 - Campañas/Activas/C.I. 1 - Los Dragones de la isla de las Tempestades/01 - Sesiones/Preparación/01 - Preparación",
+    "01 - Campañas/Activas/C.I. 1 - Los Dragones de la isla de las Tempestades/01 - Sesiones/02 - En juego",
+    "01 - Campañas/Activas/C.I. 1 - Los Dragones de la isla de las Tempestades/01 - Sesiones/01 - Planificación",
+    "01 - Campañas/Activas/C.I. 1 - Los Dragones de la isla de las Tempestades/03 - Recursos de la campaña/03 - Material de referencia",
+    "01 - Campañas/Activas/C.I. 1 - Los Dragones de la isla de las Tempestades/03 - Recursos de la campaña/02 - Enemigos y encuentros",
+    "01 - Campañas/Activas/C.I. 1 - Los Dragones de la isla de las Tempestades/03 - Recursos de la campaña/01 - Reglas y ayudas de mesa",
+    "01 - Campañas/Activas/C.I. 1 - Los Dragones de la isla de las Tempestades/02 - Mundo/Sin título.md",
+    "01 - Sesiones.md",
+    "01 - Campañas/Activas/C.I. 1 - Los Dragones de la isla de las Tempestades/03 - Recursos de la campaña.md",
+    "01 - Campañas/Activas/C.I. 1 - Los Dragones de la isla de las Tempestades/01 - Sesiones.md",
+    "01 - Campañas/Activas/C.I. 1 - Los Dragones de la isla de las Tempestades/02 - Mundo.md"
+  ]
+}

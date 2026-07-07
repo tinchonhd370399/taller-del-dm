@@ -1,0 +1,78 @@
+/* ---------- NIVEL 1: CARPETAS RAÍZ ---------- */
+
+.nav-files-container > .nav-folder > .nav-folder-title {
+  color: var(--text-accent);
+  font-size: 1.08em;
+  font-weight: 800;
+  letter-spacing: 0.03em;
+  background-color: color-mix(in srgb, var(--text-accent) 12%, transparent);
+  border-left: 4px solid var(--text-accent);
+  margin-top: 10px;
+}
+
+
+/* ---------- NIVEL 2 ---------- */
+
+.nav-files-container > .nav-folder > .nav-folder-children
+> .nav-folder > .nav-folder-title {
+  color: var(--text-normal);
+  font-size: 1em;
+  font-weight: 750;
+  background-color: var(--background-secondary);
+  border-left: 3px solid var(--text-muted);
+  margin-top: 7px;
+}
+
+
+/* ---------- NIVEL 3 ---------- */
+
+.nav-files-container > .nav-folder > .nav-folder-children
+> .nav-folder > .nav-folder-children
+> .nav-folder > .nav-folder-title {
+  color: var(--text-muted);
+  font-size: 0.94em;
+  font-weight: 700;
+  border-left: 2px solid var(--text-faint);
+  margin-top: 5px;
+}
+
+
+/* ---------- NIVEL 4 ---------- */
+
+.nav-files-container > .nav-folder > .nav-folder-children
+> .nav-folder > .nav-folder-children
+> .nav-folder > .nav-folder-children
+> .nav-folder > .nav-folder-title {
+  color: var(--text-faint);
+  font-size: 0.90em;
+  font-weight: 600;
+  border-left: 1px solid var(--background-modifier-border-hover);
+  margin-top: 3px;
+  opacity: 0.9;
+}
+
+
+/* ---------- NIVEL 5 ---------- */
+
+.nav-files-container > .nav-folder > .nav-folder-children
+> .nav-folder > .nav-folder-children
+> .nav-folder > .nav-folder-children
+> .nav-folder > .nav-folder-children
+> .nav-folder > .nav-folder-title {
+  color: var(--text-faint);
+  font-size: 0.87em;
+  font-weight: 500;
+  border-left: 1px solid var(--background-modifier-border);
+  opacity: 0.72;
+}
+
+
+/* ---------- NIVEL 6 O MÁS ---------- */
+
+.nav-folder-children .nav-folder-children .nav-folder-children
+.nav-folder-children .nav-folder-children .nav-folder-title {
+  color: var(--text-faint);
+  font-size: 0.84em;
+  font-weight: 450;
+  opacity: 0.58;
+}
