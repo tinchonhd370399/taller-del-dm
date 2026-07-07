@@ -1,6 +1,5 @@
-  
-> Aquí aparecerán las plantillas reutilizables para preparar, dirigir y registrar sesiones.  
-  
+  > Aquí aparecerán las plantillas reutilizables para preparar, dirigir y registrar sesiones.   
 ## Disponibles  
   
-- Aún no hay plantillas.
+- [[Plantilla - Preparación de sesión]]  
+- [[Plantilla - Registro de sesión]]

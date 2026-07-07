@@ -164,3 +164,9 @@ Una nota nueva se crea cuando necesita:
 - Tener información propia que crecerá con el tiempo.  
 - Consultarse rápidamente durante una partida.  
 - Mantenerse separada para no mezclar temas distintos.
+## Plantillas existentes
+
+- Preparación de sesión.
+- Registro de sesión.
+
+Estas plantillas existen porque responden a una necesidad inmediata y repetible durante cualquier campaña.
