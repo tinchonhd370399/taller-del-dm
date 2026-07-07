@@ -1,9 +1,4 @@
-## Regla de navegación
 
-- Las carpetas organizan archivos.
-- Las notas índice permiten navegar mediante enlaces.
-- No se crean enlaces a carpetas.
-- Cada área nueva solo recibe una nota índice cuando necesita ser accesible desde otra parte de la bóveda.
 ## Estado actual del Taller  
   
 - La arquitectura de la campaña activa está terminada.  
@@ -145,3 +140,27 @@ Cuando te quede claro, respondeme con una de estas dos opciones: **“Entendí�
 ==Mi objetivo sería que, cuando llegue el día de dirigir, no tengas que pensar "¿dónde estaba esa regla?", sino que todo esté organizado para encontrarlo en segundos. Si logramos eso, vas a poder concentrarte en lo importante: narrar, reaccionar a los jugadores y disfrutar la partida.==
 
 ==Y creo que podemos construir ese sistema paso a paso, empezando por la bóveda de Obsidian. Ahí es donde pondría nuestro siguiente esfuerzo.==
+
+
+## Regla de navegación
+
+- Las carpetas organizan archivos.
+- Las notas índice permiten navegar mediante enlaces.
+- No se crean enlaces a carpetas.
+- Cada área nueva solo recibe una nota índice cuando necesita ser accesible desde otra parte de la bóveda.
+## Criterio para crear plantillas  
+  
+Una plantilla solo se crea cuando:  
+- Ya repetí una misma estructura al menos dos veces, o  
+- Sé que voy a necesitarla de inmediato en varias notas.  
+- Su uso ahorra tiempo real durante preparación o juego.  
+  
+No se crean plantillas solo porque una categoría exista.
+
+## Criterio para crear una nota nueva  
+  
+Una nota nueva se crea cuando necesita:  
+- Ser enlazada desde otra nota.  
+- Tener información propia que crecerá con el tiempo.  
+- Consultarse rápidamente durante una partida.  
+- Mantenerse separada para no mezclar temas distintos.

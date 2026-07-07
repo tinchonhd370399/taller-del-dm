@@ -12,4 +12,6 @@
 
 ## Estado actual
 
-- La campaña activa está congelada mientras se termina la estructura global del Taller.
+- [x] La campaña activa está congelada mientras se termina la estructura global del Taller.
+- La estructura global del Taller está terminada.
+- Próxima fase: diseñar solo las primeras plantillas que tengan uso inmediato.

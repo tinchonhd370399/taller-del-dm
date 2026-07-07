@@ -12,3 +12,8 @@
   > Conceptos todavía sin convertir en una campaña activa.
 
 - Aún no hay ideas registradas.
+## Regla de uso
+
+- Una campaña nueva empieza en `Ideas`.
+- Pasa a `Activas` cuando tenga una intención clara de ser jugada.
+- Pasa a `Archivadas` cuando termine, se pause indefinidamente o se conserve como referencia.
