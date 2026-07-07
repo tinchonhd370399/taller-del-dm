@@ -1,11 +1,28 @@
+## Regla de navegación
 
-# Arquitectura del Taller del DM
+- Las carpetas organizan archivos.
+- Las notas índice permiten navegar mediante enlaces.
+- No se crean enlaces a carpetas.
+- Cada área nueva solo recibe una nota índice cuando necesita ser accesible desde otra parte de la bóveda.
+## Estado actual del Taller  
+  
+- La arquitectura de la campaña activa está terminada.  
+- La campaña activa queda congelada hasta terminar la estructura global de la bóveda.  
+- El trabajo actual se centrará en:  
+- `00 - Inicio`: entrada principal y bandeja de entrada.  
+- `01 - Campañas`: campañas activas, archivadas e ideas.  
+- `02 - Recursos`: reglas, herramientas y material reutilizable.  
+- `03 - Plantillas`: categorías preparadas; todavía sin plantillas reales.  
+- `04 - Referencias`: material externo clasificado por formato.
+- No se cargará contenido de aventuras mientras esta fase no esté terminada.
 
-## Propósito
+
+## Arquitectura del Taller del DM
+### Propósito
 
 Esta bóveda es el sistema central para aprender, preparar y dirigir campañas de Dungeons & Dragons.
 
-## Principios
+### Principios
 
 - Primero se diseña la arquitectura; después se crea contenido.
     
@@ -18,7 +35,7 @@ Esta bóveda es el sistema central para aprender, preparar y dirigir campañas d
 - La estructura puede refactorizarse cuando deje de servir.
     
 
-## Responsabilidad de cada herramienta
+### Responsabilidad de cada herramienta
 
 - **Obsidian:** conocimiento y gestión de campañas.
     
@@ -27,13 +44,13 @@ Esta bóveda es el sistema central para aprender, preparar y dirigir campañas d
 - **Krita:** arte final, recursos visuales e imprimibles.
     
 
-## Objetivo durante una partida
+### Objetivo durante una partida
 
 Encontrar reglas, NPC, lugares, sesiones y recursos rápidamente para poder narrar, improvisar y reaccionar a los jugadores.
 
-## Entender los símbolos básicos de formato de Obsidian antes de seguir construyendo el Taller del DM.
+### Entender los símbolos básicos de formato de Obsidian antes de seguir construyendo el Taller del DM.
 
-## Instrucciones concretas
+### Instrucciones concretas
 
 No modifiques nada todavía. Solo mirá esta guía:
 
