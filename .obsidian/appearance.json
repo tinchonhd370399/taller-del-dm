@@ -2,7 +2,7 @@
   "accentColor": "",
   "cssTheme": "ITS Theme",
   "enabledCssSnippets": [],
-  "theme": "moonstone",
-  "baseFontSize": 18,
+  "theme": "obsidian",
+  "baseFontSize": 13,
   "baseFontSizeAction": true
 }

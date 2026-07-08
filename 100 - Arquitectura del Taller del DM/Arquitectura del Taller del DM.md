@@ -165,8 +165,19 @@ Una nota nueva se crea cuando necesita:
 - Consultarse rápidamente durante una partida.  
 - Mantenerse separada para no mezclar temas distintos.
 ## Plantillas existentes
-
 - Preparación de sesión.
 - Registro de sesión.
+- PNJ.
+- Lugar.
+- Campaña.
 
 Estas plantillas existen porque responden a una necesidad inmediata y repetible durante cualquier campaña.
+
+## Uso diario del Taller
+
+1. Si aparece una idea rápida, anotarla en [[Bandeja de entrada]].
+2. Si pertenece a una campaña concreta, moverla a esa campaña.
+3. Si sirve para varias campañas, moverla a [[Índice de recursos globales]].
+4. Si es material externo, guardarlo en [[Índice de referencias]].
+5. Si se repite una estructura útil, evaluar crear una plantilla.
+6. Si no tiene uso claro, no crear una nota nueva todavía.

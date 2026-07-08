@@ -2,4 +2,6 @@
   
 ## Disponibles  
   
-- Aún no hay plantillas.
+  - [[Plantilla - PNJ]] 
+  - [[Plantilla Lugar]]
+  - 

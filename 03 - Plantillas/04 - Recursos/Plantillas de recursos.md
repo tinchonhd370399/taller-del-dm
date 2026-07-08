@@ -2,4 +2,4 @@
   
 ## Disponibles  
   
-- Aún no hay plantillas.
+- [[Plantilla - Recurso de consulta rápida]]
